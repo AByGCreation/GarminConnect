@@ -1,0 +1,352 @@
+[
+  [
+    {
+      "idType": "12",
+      "nameFR": "Sans catégorie",
+      "nameUS": "Uncategorized"
+    }
+  ],
+  [
+    {
+      "idType": "1",
+      "nameFR": "Course",
+      "nameUS": "Running"
+    },
+    {
+      "idType": "7",
+      "nameFR": "Course à pied urbaine",
+      "nameUS": "Street Running"
+    },
+    {
+      "idType": "8",
+      "nameFR": "Course à pied sur piste",
+      "nameUS": "Track Running"
+    },
+    {
+      "idType": "6",
+      "nameFR": "Course à pied tout terrain",
+      "nameUS": "Trail Running"
+    },
+    {
+      "idType": "18",
+      "nameFR": "Course à pied sur tapis roulant",
+      "nameUS": "Treadmill Running"
+    }
+  ],
+  [
+    {
+      "idType": "2",
+      "nameFR": "Cyclisme",
+      "nameUS": "Cycling"
+    },
+    {
+      "idType": "131",
+      "nameFR": "BMX",
+      "nameUS": "BMX"
+    },
+    {
+      "idType": "19",
+      "nameFR": "Cyclocross",
+      "nameUS": "Cyclocross"
+    },
+    {
+      "idType": "20",
+      "nameFR": "Cyclisme de descente",
+      "nameUS": "Downhill Biking"
+    },
+    {
+      "idType": "143",
+      "nameFR": "Gravel bike",
+      "nameUS": "Gravel/Unpaved Cycling"
+    },
+    {
+      "idType": "25",
+      "nameFR": "Vélo d'intérieur",
+      "nameUS": "Indoor Cycling"
+    },
+    {
+      "idType": "5",
+      "nameFR": "VTT",
+      "nameUS": "Mountain Biking"
+    },
+    {
+      "idType": "22",
+      "nameFR": "Vélo couché",
+      "nameUS": "Recumbent Cycling"
+    },
+    {
+      "idType": "10",
+      "nameFR": "Cyclisme sur route",
+      "nameUS": "Road Cycling"
+    },
+    {
+      "idType": "21",
+      "nameFR": "Cyclisme sur piste",
+      "nameUS": "Track Cycling"
+    }
+  ],
+  [
+    {
+      "idType": "29",
+      "nameFR": "Appareil de remise en forme",
+      "nameUS": "Fitness Equipment"
+    },
+    {
+      "idType": "30",
+      "nameFR": "Vélo elliptique",
+      "nameUS": "Elliptical"
+    },
+    {
+      "idType": "11",
+      "nameFR": "Cardio",
+      "nameUS": "Cardio"
+    },
+    {
+      "idType": "32",
+      "nameFR": "Rameur d'intérieur",
+      "nameUS": "Indoor Rowing"
+    },
+    {
+      "idType": "31",
+      "nameFR": "Simulateur d'escalier",
+      "nameUS": "Stair Stepper"
+    },
+    {
+      "idType": "13",
+      "nameFR": "Musculation",
+      "nameUS": "Strength Training"
+    }
+  ],
+  [
+    {
+      "idType": "3",
+      "nameFR": "Randonnée",
+      "nameUS": "Hiking"
+    }
+  ],
+  [
+    {
+      "idType": "26",
+      "nameFR": "Natation",
+      "nameUS": "Swimming"
+    },
+    {
+      "idType": "27",
+      "nameFR": "Natation en piscine",
+      "nameUS": "Lap Swimming"
+    },
+    {
+      "idType": "28",
+      "nameFR": "Natation en eau libre",
+      "nameUS": "Open Water Swimming"
+    }
+  ],
+  [
+    {
+      "idType": "9",
+      "nameFR": "Marche à pied",
+      "nameUS": "Walking"
+    },
+    {
+      "idType": "15",
+      "nameFR": "Marche",
+      "nameUS": "Casual Walking"
+    },
+    {
+      "idType": "16",
+      "nameFR": "Marche rapide",
+      "nameUS": "Speed Walking"
+    }
+  ],
+  [
+    {
+      "idType": "83",
+      "nameFR": "Transition",
+      "nameUS": "Transition"
+    },
+    {
+      "idType": "85",
+      "nameFR": "Transition entre vélo et course",
+      "nameUS": "Bike to Run Transition"
+    },
+    {
+      "idType": "86",
+      "nameFR": "Transition entre course et vélo",
+      "nameUS": "Run to Bike Transition"
+    },
+    {
+      "idType": "84",
+      "nameFR": "Transition entre natation et vélo",
+      "nameUS": "Swim to Bike Transition"
+    }
+  ],
+  [
+    {
+      "idType": "71",
+      "nameFR": "Moto-cross",
+      "nameUS": "Motorcycling"
+    },
+    {
+      "idType": "132",
+      "nameFR": "Tout terrain",
+      "nameUS": "ATV"
+    },
+    {
+      "idType": "135",
+      "nameFR": "Motocross",
+      "nameUS": "Motocross"
+    }
+  ],
+  [
+    {
+      "idType": "4",
+      "nameFR": "Autre",
+      "nameUS": "Other"
+    },
+    {
+      "idType": "68",
+      "nameFR": "Ski de randonnée nordique/Surf des neiges",
+      "nameUS": "Backcountry Skiing/Snowboarding"
+    },
+    {
+      "idType": "75",
+      "nameFR": "Bateau",
+      "nameUS": "Boating"
+    },
+    {
+      "idType": "81",
+      "nameFR": "Ski de fond",
+      "nameUS": "Cross Country Skiing"
+    },
+    {
+      "idType": "49",
+      "nameFR": "Conduite",
+      "nameUS": "Driving"
+    },
+    {
+      "idType": "52",
+      "nameFR": "Aviation",
+      "nameUS": "Flying"
+    },
+    {
+      "idType": "88",
+      "nameFR": "Golf",
+      "nameUS": "Golf"
+    },
+    {
+      "idType": "140",
+      "nameFR": "Deltaplane",
+      "nameUS": "Hang Gliding"
+    },
+    {
+      "idType": "44",
+      "nameFR": "Equitation",
+      "nameUS": "Horseback Riding"
+    },
+    {
+      "idType": "133",
+      "nameFR": "Chasse/pêche",
+      "nameUS": "Hunting/Fishing"
+    },
+    {
+      "idType": "63",
+      "nameFR": "Roller",
+      "nameUS": "Inline Skating"
+    },
+    {
+      "idType": "37",
+      "nameFR": "Alpinisme",
+      "nameUS": "Mountaineering"
+    },
+    {
+      "idType": "57",
+      "nameFR": "Canoë-kayak",
+      "nameUS": "Paddling"
+    },
+    {
+      "idType": "136",
+      "nameFR": "Télécommande Radio du Drone",
+      "nameUS": "RC/Drone"
+    },
+    {
+      "idType": "67",
+      "nameFR": "Ski sur piste/Surf des neiges",
+      "nameUS": "Resort Skiing/Snowboarding"
+    },
+    {
+      "idType": "139",
+      "nameFR": "Escalade",
+      "nameUS": "Rock Climbing"
+    },
+    {
+      "idType": "39",
+      "nameFR": "Aviron",
+      "nameUS": "Rowing"
+    },
+    {
+      "idType": "77",
+      "nameFR": "Navigation à la voile",
+      "nameUS": "Sailing"
+    },
+    {
+      "idType": "82",
+      "nameFR": "Pas de patinage",
+      "nameUS": "Skate Skiing"
+    },
+    {
+      "idType": "62",
+      "nameFR": "Patin à glace/à roulettes",
+      "nameUS": "Skating"
+    },
+    {
+      "idType": "134",
+      "nameFR": "Parachutisme",
+      "nameUS": "Sky Diving"
+    },
+    {
+      "idType": "36",
+      "nameFR": "Raquette à neige",
+      "nameUS": "Snowshoeing"
+    },
+    {
+      "idType": "51",
+      "nameFR": "Motoneige",
+      "nameUS": "Snowmobiling"
+    },
+    {
+      "idType": "87",
+      "nameFR": "Stand up paddle",
+      "nameUS": "Stand Up Paddleboarding"
+    },
+    {
+      "idType": "137",
+      "nameFR": "Surf",
+      "nameUS": "Surfing"
+    },
+    {
+      "idType": "142",
+      "nameFR": "Tennis",
+      "nameUS": "Tennis"
+    },
+    {
+      "idType": "138",
+      "nameFR": "Wakeboard",
+      "nameUS": "Wakeboarding"
+    },
+    {
+      "idType": "60",
+      "nameFR": "Rafting/Kayak d'eau vive",
+      "nameUS": "Whitewater Kayaking/Rafting"
+    },
+    {
+      "idType": "41",
+      "nameFR": "Planche à voile/Kitesurf",
+      "nameUS": "Wind/Kite Surfing"
+    },
+    {
+      "idType": "141",
+      "nameFR": "Vol en wingsuit",
+      "nameUS": "Wingsuit Flying"
+    }
+  ]
+]
